@@ -43,24 +43,16 @@ like so:
 | Ellis |[15x15 Drag Chain Ends](./Ellis/15x15_Drag_Chain_End) | 15x15 drag chain end pieces | :grey_question: | :grey_question: |:heavy_check_mark: |
 | |[Badge Retractor Mount](./Ellis/Badge_Retractor_Mount) | Extrusion mount for badge retractor to keep bowden tube out of the way. | :grey_question: | :grey_question: |:heavy_check_mark: |
 | |[Short Z Joints](./Ellis/Short_Z_Joints) | Shorter Z joints for the v2.4 |:x: |:x: |:heavy_check_mark: |
-| FreeformFez | [V1.8 Filtered Power Inlet](./FreeformFez/FilteredPower) | V1.6 Filtered Inlet and Rocker Switch for V1.8 | :x: | :heavy_check_mark: | :x: |
 | GSL12 | [Pocketwatch Nema 17](./GSL12/pocketwatch_nema17)| Extruder like Pocketwatch, but with Nema17 instead of Nema14. Maybe for V0 fork with 2020 extrusions, Nema17 and MGN9 or other printers. | :grey_question: | :grey_question: | :grey_question: |
 | hartk1213 | [Voron0_deck_panel_with_logo_and_VORON0](./hartk1213/Voron0_deck_panel_with_logo_and_VORON0) | Used @Kruppes blank deck panel to add the logo as well as the name VORON0 | :heavy_check_mark:| :x: | :x: |
 | | [Voron0_display_dualcolor](./hartk1213/Voron0_display_dualcolor) | Added a dual color file for the Voron Display Front housing | :heavy_check_mark:| :x: | :x: |
 | | [Voron0_C14Inlet](./hartk1213/Voron0_C14Inlet) | Added a new Power inlet that uses a Fused C14 plug and switch that covers the mains contacts  | :heavy_check_mark:| :x: | :x: |
-| | [Voron0_Hinged_Top_Hat](./hartk1213/Voron0_Hinged_Top_Hat) | Created a new hinged top hat design for the V0 so it can fold away when you dont want a top hat on  | :heavy_check_mark:| :x: | :x: |
 | hernsl | [Bottom Panel Mag Clip](./hernsl/bottom_panel_mag_clip) | v2.4 magnetic clips to retain bottom panel | :x: | :x: | :heavy_check_mark: |
 |hijax_pl_ |[Corner panel clip](./hijax_pl/corner_panel_clip) |V2 panel corner frames using 3-way L brackets in the corners |:x: |:x: |:heavy_check_mark: |
 | |[Din Rail mount](./hijax_pl/din_rail_mount) |Adapter to attach DIN Rail to 2020 extrusion. |:x: |:x: |:heavy_check_mark: |
 | |[Controler Board adapters](./hijax_pl/ender_compatible_controller_mount) |DIN (rotated) and legacy adapters for boards like SKR mini E3. |:grey_question: |:x: |:heavy_check_mark: |
 |Iakabos| [c920_Mount](./Iakabos/C920_mount)|Slim mount for logitech c920 webcam|:x:|:heavy_check_mark:|:heavy_check_mark:|
-| | [V0 beltchains](./Iakabos/V0_beltchain)|Modified beltchain parts for V0 Z cables|:heavy_check_mark: |:x: |:x: |
 |jasonc |[V2.4 Z-Idler Shoulder Bolt Mod](./jasonc/Z_Idler_Shoulder_Bolt) |Modification to the idler carriers to accept a 25mm shoulder bolt. Ideal for Gates idlers. |:x: |:x: |:heavy_check_mark: |
-| kirby | [V0 Sherpa Mini Direct Drive Mod](./kirby/v0_sherpa_mini_direct_drive)| A direct drive mod for the V0 using the Annex Sherpa Mini extruder | :heavy_check_mark: | :x: | :x: |
-|Kruppes |[V0 Printed Deck with inserts](./Kruppes/Deck_Panel_inserts_logo) |Electronics Deck Panel using brass heat inserts. Optional with accent color Voron Logo. |:heavy_check_mark: |:x: |:x: |
-| |[Encosed Bottom](./Kruppes/Closed_Bottom) | Modified printed parts and panel to fully enclose V0. |:heavy_check_mark: |:x: |:x: |
-|littleferris |[V0 c14 Skirt Inlet](./littleferris/V0_Skirt_Inlet) |V0 C14 Skirt inlet |:heavy_check_mark: |:x: |:x: |
-|madros |[V0 OLED-skirt](./madros/V0_skirt_OLED) |V0 skirt with 0.96" OLED|:heavy_check_mark: |:x: |:x: |
 |MarcPot |[UHP PSU Bracket Clip](./MarcPot/UHP_PSU_Bracket_Clip)|DIN rail mount for the Mean Well UHP series PSU. |:grey_question: |:grey_question: |:heavy_check_mark: |
 | |[Hour Counter Skirt + Keystone Skirt](./MarcPot/Skirt_Mods)|Skirt mod for a mechanical hour counter and keystone inserts |:x: |:x: |:heavy_check_mark: |
 |mjoaris |[10x11 Cable Chain Endcaps](./mjoaris/10x11_Cable_Chain_Endcaps) |Printable Endcaps for 10x11 Cable Chains |:x: |:heavy_check_mark: |:heavy_check_mark: |
@@ -68,11 +60,6 @@ like so:
 |Mosher|[Door hinges with M3 screws shafts](./mosher/m3_door_hinges) |Simple mod of print in place door hinges, which uses m3 screws as shafts. |:x:|:x:|:heavy_check_mark:|
 |natewalck |[V1.8 Jigs](./natewalck/v1.8_Jigs) |Jigs for assembling V1.8 |:x: |:heavy_check_mark: |:x: |
 |Nomsplease |[60mm Shaft Jig](./Nomsplease/60mm_Shaft_Jig) |Simple jig for cutting and grinding 60mm Z shafts |:x: |:x: |:heavy_check_mark: |
-| |[Duet Wifi Mount](./Nomsplease/V0_Mods/duet_wifi_mount) | Duet wifi mount in pocketwatch location |:heavy_check_mark: |:x: |:x: |
-| |[LED Mounts](./Nomsplease/V0_Mods/led_mounts) | Basic LED mounts for 10 and 12mm strips |:heavy_check_mark: |:x: |:x: |
-| |[Remixed Panel Mounts](./Nomsplease/V0_Mods/panel_mounts) | Remixed rear bottom panel mounts with stop |:heavy_check_mark: |:x: |:x: |
-| |[Pi Cam/ZeroW Mount](./Nomsplease/V0_Mods/pi_zero_camera_mount) | Mount for pi camera and ZeroW |:heavy_check_mark: |:x: |:x: |
-| |[Pocket Watch Rear Reolcation Bracket](./Nomsplease/V0_Mods/pocket_watch_rear_relocation) | Pocket watch rear reolcation bracket |:heavy_check_mark: |:x: |:x: |
 |randell   |[Door Hinges](./randell/Door_Hinges) |Door hinges that use an M3 bolt for a pin and bolts thru the panel |:x: |:x: |:heavy_check_mark: |
 ||[Microswitch Pod for PCB](./randell/Microswitch_Endstop) |Modified endstop pod for use of endstop switches mounted on a PCB |:x: |:x: |:heavy_check_mark: |
 | raymondh | [Large Spool Holders](./raymondh/LargeSpoolHolders) | Larger spool holders for KVP spools | :x: | :heavy_check_mark: | :heavy_check_mark: |
