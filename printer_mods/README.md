@@ -89,7 +89,6 @@ like so:
 | | [TacoRaven Mounting Frame](./tameike/V0_TR_Mounting_Frame) | TR V0 mount | :heavy_check_mark: | :x: | :x: |
 | | [Jetpack V0 base](./tameike/Jetpack_V0)| Attach Jetpack to V0 frame | :heavy_check_mark: |:x: |:x: |
 | warriorofwire | [Slenderfan for Afterburner](./warriorofwire/slenderfan) | Lighter, quieter, smaller Afterburner | :x: | :x: | :heavy_check_mark: |
-| Weaslus | [Electronics Bay and Enclosure Seperator](./Weaslus/Electronics-Bay-Seperator) | Better enclose chamber and keep heat from electronics | :heavy_check_mark: | :x: | :x: |
 | xbst_ | [PCB LED Holder](./xbst_/LED_Holder)| Very simple mount for some (?) PCB LED Bars | :x: |:heavy_check_mark: |:heavy_check_mark: |
 | | [DIN Mount Omron Relay](./xbst_/Omron_DIN_Mount)| A simple DIN rail mount for the BOM Relay | :x: | :heavy_check_mark: |:heavy_check_mark: |
 | | [DIN Mount Pi 4x Relay Board](./xbst_/Relay_DIN_Mount)| A simple DIN rail mount for the 4 channel relay board for Raspberry Pi | :x: | :heavy_check_mark: |:heavy_check_mark: |
@@ -97,13 +96,6 @@ like so:
 | | [Car Hood Style Bed Hinge](./xbst_/Bed_Hinge)| A way of reaching electronics from the top by having a "car hood" style hinge for the heatbed, and rotated electronics mounts. | :x: | :x: |:heavy_check_mark: |
 | | [Flat V2.4 Skirts](./xbst_/Flat_Skirts) | Flat V2.4 Skirts so a panel without cutouts can be used | :x: | :x: |:heavy_check_mark: |
 | | [V2.4 Fanless Middle Skirt](./xbst_/V2.4_Fanless_Middle_Skirt)| A Fanless alternative middle side skirt | :x: | :x: |:heavy_check_mark: |
-| | [Duct Mount](./xbst_/Duct_Mount) | 100mm/4" ducting mount for ventilation. Also supports umbilical cord and has 3 orientations for bowden adapter. | :x: | :x: |:heavy_check_mark: |
-| | [HOYMK SSR Mount](./xbst_/HOYMK_SSR_Mount) | Mount for Chinese HOYMK SSR | :heavy_check_mark: | :x: | :x: |
-| | [ADXL345 V0 Mount](./xbst_/ADXL345_V0_Mount) | V0 Mount for a ADXL345 module | :heavy_check_mark: |:x: |:x: |
-| | [Easy Access Rear Panels](./xbst_/Easy_Access_Rear_Panels_v0) | New rear panels designed to expose the extruder for easy filament swapping | :heavy_check_mark: | :x: |:x: |
-| | [Hat LED Mount](./xbst_/Hat_LED_Mount) | Top Hat LED module mount | :heavy_check_mark: |:x: |:x: |
-| | [ZipClip V0](./xbst_/ZipClip_v0) | Very simple ziptie mount for v0 1515 extrusions | :heavy_check_mark: |:x: |:x: |
-| | [Screwed Front Door Hinge](./xbst_/V0_Screw_Front_Hinge_Mod)| Mod to screw the front door panel (instead of VHB) | :heavy_check_mark: | :x: | :x: |
 | | [DuetZero](./xbst_/DuetZero) | Pi Zero mount over a Duet2 for space saving | :heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |
 
 ---
